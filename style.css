@@ -1,0 +1,29 @@
+body
+{
+	margin:0;
+}
+h1
+{
+	margin-top:0;
+}
+.top
+{
+	background-color:#E4F9F5;
+}
+.middle
+{
+	background-color: orange;
+	height: 200px;
+	width: 200px;
+}
+.center
+{
+	height: 200px;
+	width: 200px;
+}
+.bottom
+{
+	background-color: green;
+	height: 200px;
+	width: 200px;
+}
